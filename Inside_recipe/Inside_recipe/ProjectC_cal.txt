@@ -1,0 +1,116 @@
+flour all purpose,3.64
+active dry yeast,2.95
+almonds,5.75 
+almond milk,0.17 
+applesauce,0.68 
+apricot jam,2.5 
+baking powder,0.53 
+baking soda,0 
+blackberry jam,2.5 
+blackcurrant jam,2.5 
+blueberry jam,2.5 
+bread flour,3.61
+brown sugar,3.95 
+butter,7.17 
+buttermilk,0.62
+butterscotch chips,5.39
+cake flour,3.62
+cherry jam,2.5 
+chocolate,5.07
+chocolate chip,4.67
+chocolate spread,5.41 
+cocoa powder,2.28
+coconut flake,4.56
+coconut milk,2.3
+condensed milk,3.21 
+corn,3.65
+corn flour,3.61
+corn syrup,2.81
+cornmeal,3.62
+cornstarch,3.81
+cream cheese,3.42
+custard powder,3.37
+dark chocolate,5.98
+dextrose,3.75
+dried apricot,2.41 
+dried cranberrie,3.08 
+dried fig,2.49 
+dried prune,1.07 
+duck egg,1.85 
+egg,0.97 
+egg white,0.13 
+egg yolk,3.22 
+fructose,3.68 
+gelatin,3.35 
+glucose,2.86 
+glucose syrup,3.87 
+goat milk,0.71 
+ground cinnamon,2.47 
+hazelnuts,6.28 
+heavy cream,3.45 
+heavy whipping cream,3.45 
+honey,3.04
+lactose free milk,0.68
+light whipping cream,2.92 
+low fat milk,0.44
+maple syrup,2.61 
+malt powder,3.61 
+malted milk,4.05 
+maltitol,2.1 
+maltodextrin,3.75 
+maltose,3.44 
+maple syrup,2.70 
+molasses,2.90 
+milk,0.61
+whole milk,0.61 
+milk chocolate,5.35
+nonfat milk,0.38
+oatmeal,3.75
+peppermint extract,0
+poppy seeds,5.25
+powdered milk,4.96 
+powdered sugar,3.89 
+protein powder,4.11 
+raisin,4.74 
+rice milk,0.49 
+rock sugar,6.25 
+rolled oats,3.84 
+rum,2.46 
+salt,0 
+salted butter,7.17
+sea salt,0 
+semisweet chocolate,4.79
+semolina flour,3.5 
+sesame seeds,5.73 
+shredded coconut,5.01 
+sorbitol,3.75 
+soy milk,0.41 
+soy protein powder,3.38 
+sprinkles,5 
+starch,3.81 
+strawberry jam,2.5 
+strawberry jelly,2.5 
+strawberry preserves,2.78 
+sucrose,3.87 
+sugar,4.05 
+sugar cane,3.87
+sunflower seeds,1.17 
+unsalted butter,7.17 
+unsweetened chocolate,5
+baking chocolate,5
+vanilla extract,2.88 
+vanilla sugar,3.57 
+vegetable oil,8.84 
+walnuts,1.31 
+water,0
+whipped cream,2.57 
+white chocolate,5.38 
+whole wheat flour,3.4 
+xylitol,2.40 
+yeast(dry),3.25 
+jelly,2.78 
+margarine,7.17 
+nutella,5.44 
+peanut butter,5.89 
+plum jam,2.5 
+jam,2.5

@@ -1,0 +1,8 @@
+﻿  main.c
+D:\University\C_project_y1\Inside_recipe\Inside_recipe\main.c(27,50): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\University\C_project_y1\Inside_recipe\Inside_recipe\main.c(35,23): warning C4047:  'function': 'int' differs in levels of indirection from 'char [100]'
+D:\University\C_project_y1\Inside_recipe\Inside_recipe\main.c(35,23): warning C4024:  'tolower': different types for formal and actual parameter 1
+D:\University\C_project_y1\Inside_recipe\Inside_recipe\main.c(84,61): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+D:\University\C_project_y1\Inside_recipe\Inside_recipe\main.c(188,7): warning C4013:  'gets' undefined; assuming extern returning int
+D:\University\C_project_y1\Inside_recipe\Inside_recipe\main.c(189,36): warning C4047:  '==': 'int' differs in levels of indirection from 'void *'
+  Inside_recipe.vcxproj -> D:\University\C_project_y1\Inside_recipe\Debug\Inside_recipe.exe
